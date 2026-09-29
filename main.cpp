@@ -85,7 +85,7 @@ int main()
 	GLuint uniID = glGetUniformLocation(shaderProgram.ID, "scale");
 
 	// Texture (pop_cat.png debe estar en la carpeta del proyecto)
-	Texture brickTex("pop_cat.png", GL_TEXTURE_2D, GL_TEXTURE0, GL_RGBA, GL_UNSIGNED_BYTE);
+	Texture brickTex("chai.jpeg", GL_TEXTURE_2D, GL_TEXTURE0, GL_RGBA, GL_UNSIGNED_BYTE);
 	brickTex.texUnit(shaderProgram, "tex0", 0);
 
 	// Variables for the rotation of the pyramid
@@ -156,6 +156,4 @@ int main()
 	glfwDestroyWindow(window);
 	glfwTerminate();
 	return 0;
-}
-
-committttttt
+};

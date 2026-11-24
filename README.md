@@ -1,12 +1,7 @@
-# **Guía de estudio para sustentar tu proyecto de OpenGL**
-
-La idea es que no tengas que memorizar el código completo, sino que entiendas **qué hace cada función, por qué existe, qué información recibe y qué resultado produce**.
-
-Voy a organizar la explicación desde el funcionamiento general del programa hasta las preguntas técnicas que podría hacerte el profesor, incluyendo respuestas que puedes utilizar durante la sustentación.
 
 # **1. Funcionamiento general del proyecto**
 
-Tu proyecto integra cinco sistemas principales:
+el proyecto integra cinco sistemas principales:
 
 **main()**
 
@@ -36,9 +31,9 @@ Actualiza la cámara, la luz y el automóvil
 
 Escenario tridimensional interactivo
 
-**Pregunta del profesor: ¿Cómo funciona su proyecto?**
 
-*Respuesta:* El programa importa dos modelos tridimensionales en formato glTF, almacena su geometría y texturas en la tarjeta gráfica y los renderiza mediante OpenGL. El automóvil se mueve utilizando una curva de Bézier compuesta, mientras que la iluminación se calcula dinámicamente mediante el modelo Phong. También implementé una cámara libre y una fuente luminosa que puede desplazarse mediante el teclado.
+
+El programa importa dos modelos tridimensionales en formato glTF, almacena su geometría y texturas en la tarjeta gráfica y los renderiza mediante OpenGL. El automóvil se mueve utilizando una curva de Bézier compuesta, mientras que la iluminación se calcula dinámicamente mediante el modelo Phong. También implementé una cámara libre y una fuente luminosa que puede desplazarse mediante el teclado.
 
 # **2. La función&#x20;**`main()`
 

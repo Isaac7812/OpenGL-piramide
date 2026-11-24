@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowy Mountain Road Scene
+* source:	https://sketchfab.com/3d-models/snowy-mountain-road-scene-504729dd1afc4ff0a7dd17687ccd71a1
+* author:	99.Miles (https://sketchfab.com/99.Miles)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowy Mountain Road Scene" (https://sketchfab.com/3d-models/snowy-mountain-road-scene-504729dd1afc4ff0a7dd17687ccd71a1) by 99.Miles (https://sketchfab.com/99.Miles) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

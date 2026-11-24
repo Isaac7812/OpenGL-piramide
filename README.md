@@ -1484,34 +1484,3 @@ Intenta responder estas preguntas sin mirar las respuestas. Después presiona ca
 
 20.¿El automóvil mantiene una velocidad constante?Reiniciar simulacro
 
-# **21. Orden recomendado para estudiar**
-
-No necesitas aprender todos los detalles con la misma profundidad. Te recomiendo distribuir tu tiempo de estudio de esta manera:
-
-**Iluminación Phong**
-
-30%
-
-**Curvas de Bézier**
-
-30%
-
-**Main y ciclo de renderizado**
-
-15%
-
-**Importación y texturas**
-
-10%
-
-**Shaders, VAO, VBO y EBO**
-
-10%
-
-**Cámara y controles**
-
-5%
-
-He basado esta guía en el código definitivo `main_AstonMartin_nieve_final.cpp`, que pude revisar nuevamente. No he verificado si la copia que tienes actualmente en el otro PC contiene modificaciones posteriores.
-
-**Lo más importante para la sustentación es que entiendas la diferencia entre calcular la posición del automóvil mediante Bézier, calcular su orientación mediante la tangente y calcular el color de sus superficies mediante Phong.** Si dominas esos tres procesos y sabes cómo `main()` los coordina, tendrás una buena base para responder las preguntas del profesor.

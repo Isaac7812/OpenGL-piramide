@@ -334,7 +334,7 @@ void drawNode(int nodeIndex,const glm::mat4& parent){
  const auto& n=scene.nodes[nodeIndex];glm::mat4 world=parent*nodeTransform(n);
  if(n.mesh>=0 && uint32_t(n.mesh)<gpuMeshes.size())
   for(const auto& g:gpuMeshes[n.mesh])drawMesh(g,world,false);
- for(uint32_t i=0;i<n.children_count;++i)drawNode(n.children[i],world);
+ for(uint32_t i=0;i<n.children_count;++i)drawNode(n.children[i],world); 
 }
 
 // Alternar el contexto de datos sin copiar buffers GPU.

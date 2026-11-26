@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/35375327/README.md)
-# Aston Martin One-77 — OpenGL, Phong y Bézier
+
 
 
 
